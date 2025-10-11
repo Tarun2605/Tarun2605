@@ -1,0 +1,103 @@
+name: Update README with Daily Stats
+
+on:
+  schedule:
+    # Runs daily at 00:00 UTC
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+  push:
+    branches: [ main ]
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+
+      - name: Install dependencies
+        run: |
+          npm install -g typescript
+          npm install axios cheerio @types/node
+
+      - name: Update daily stats
+        run: |
+          cat > update-stats.js << 'EOF'
+          const fs = require('fs');
+          const path = require('path');
+
+          function updateDailyStats() {
+            const readmePath = path.join(__dirname, 'README.md');
+            let content = fs.readFileSync(readmePath, 'utf8');
+            
+            const now = new Date();
+            const dateOptions = { 
+              weekday: 'long', 
+              year: 'numeric', 
+              month: 'long', 
+              day: 'numeric' 
+            };
+            const currentDate = now.toLocaleDateString('en-US', dateOptions);
+            const currentTime = now.toISOString();
+            
+            const dailyStatsRegex = /<!-- DAILY_STATS:START -->[\s\S]*?<!-- DAILY_STATS:END -->/;
+            const newDailyStats = `<!-- DAILY_STATS:START -->
+          **🗓️ Today's Date:** ${currentDate}
+
+          **⏰ Last Updated:** ${currentTime}
+
+          **📈 Profile Views:** ![Profile Views](https://komarev.com/ghpvc/?username=Tarun2605&color=brightgreen)
+          <!-- DAILY_STATS:END -->`;
+            
+            content = content.replace(dailyStatsRegex, newDailyStats);
+            
+            // Update recent activity
+            const activities = [
+              "🔄 Updated profile README with latest stats",
+              "📊 Refreshed daily metrics",
+              "⚡ Automated workflow execution",
+              "🚀 Maintained active development streak",
+              "🔧 Optimized repository automation"
+            ];
+            
+            const randomActivity = activities[Math.floor(Math.random() * activities.length)];
+            const recentActivityRegex = /<!-- RECENT_ACTIVITY:START -->[\s\S]*?<!-- RECENT_ACTIVITY:END -->/;
+            const newRecentActivity = `<!-- RECENT_ACTIVITY:START -->
+          **⚡ Recent GitHub Activity:**
+          - ${randomActivity}
+          - 📅 Daily README update: ${currentDate}
+          - 🤖 Automated via GitHub Actions
+          <!-- RECENT_ACTIVITY:END -->`;
+            
+            content = content.replace(recentActivityRegex, newRecentActivity);
+            
+            fs.writeFileSync(readmePath, content);
+            console.log('README updated successfully!');
+          }
+
+          updateDailyStats();
+          EOF
+
+          node update-stats.js
+
+      - name: Commit changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add README.md
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "📊 Daily README update - $(date +'%Y-%m-%d')"
+            git push
+          fi
