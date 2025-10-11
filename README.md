@@ -1,7 +1,7 @@
 # Hi there, I'm Tarun! 👋
 
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning&center=true&width=380&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Open+Source+Enthusiast<div align="center">
   
 **Thanks for visiting! 😄**
 
