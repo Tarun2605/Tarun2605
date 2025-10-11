@@ -1,26 +1,21 @@
 # Hi there, I'm Tarun! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Open+Source+Enthusiast<div align="center">
-  
-**Thanks for visiting! 😄**
-
-![Snake animation](https://github.com/Tarun2605/Tarun2605/blob/output/github-contribution-grid-snake.svg)
-
-</div>ter=true&width=380&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Machine+Learning+Engineer;Competitive+Programmer;DSA+Enthusiast;Generative+AI+Developer;Open+Source+Contributor&center=true&width=500&height=50">
 </div>
 
 ## 🚀 About Me
 
-- 🔭 I'm currently working on **Full-Stack Development** and **Machine Learning** projects with a focus on scalable systems
-- 🌱 I'm constantly learning **System Design**, **Cloud Architecture**, and **Generative AI** technologies
-- 💻 Strong foundation in **Data Structures & Algorithms** using C++ and **Object-Oriented Programming**
+- 🔭 I'm currently working on **Full-Stack Development**, **Machine Learning**, and **Generative AI** projects with a focus on scalable systems
+- 🧠 **Competitive Programmer** with strong expertise in **Data Structures & Algorithms** using C++
+- 🤖 Specialized in **Machine Learning** and **Generative AI** frameworks including TensorFlow, LangChain, and LangGraph
+- 🌱 I'm constantly learning **Advanced Algorithms**, **System Design**, **Cloud Architecture**, and **LLM Development**
 - ☁️ Experience with **Multi-Cloud environments** (Azure, AWS, GCP) and **Distributed Systems**
-- 🤖 Building applications with **AI/ML frameworks** including TensorFlow, LangChain, and LangGraph
-- 👯 I'm looking to collaborate on **Open Source** projects, **System Design**, and **AI-powered applications**
-- 💬 Ask me about **Backend Development**, **Database Design**, **Cloud Architecture**, or **Machine Learning**
+- 🏆 Active in **Competitive Programming** contests and **Algorithm Challenges**
+- 👯 I'm looking to collaborate on **Open Source** projects, **AI/ML Research**, **System Design**, and **Competitive Programming**
+- 💬 Ask me about **DSA**, **Competitive Programming**, **Machine Learning**, **Generative AI**, **Backend Development**, or **Cloud Architecture**
 - 📫 How to reach me: [Your Email]
-- ⚡ Fun fact: I love architecting scalable systems and exploring the intersection of AI and software engineering!
+- ⚡ Fun fact: I love solving complex algorithmic problems and building AI-powered systems that scale!
 
 ## 📊 Daily Stats
 
@@ -41,9 +36,11 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-### 🏗️ CS Fundamentals
+### 🏗️ CS Fundamentals & Competitive Programming
 ![Data Structures](https://img.shields.io/badge/-Data%20Structures-FF6B6B?style=flat-square&logo=datastructures&logoColor=white)
 ![Algorithms](https://img.shields.io/badge/-Algorithms-4ECDC4?style=flat-square&logo=algorithm&logoColor=white)
+![Competitive Programming](https://img.shields.io/badge/-Competitive%20Programming-FFD93D?style=flat-square&logo=codeforces&logoColor=black)
+![Problem Solving](https://img.shields.io/badge/-Problem%20Solving-A8E6CF?style=flat-square&logo=leetcode&logoColor=black)
 ![OOP](https://img.shields.io/badge/-OOP-45B7D1?style=flat-square&logo=object&logoColor=white)
 ![SOLID](https://img.shields.io/badge/-SOLID%20Principles-96CEB4?style=flat-square&logo=solid&logoColor=white)
 ![System Design](https://img.shields.io/badge/-System%20Design-FFEAA7?style=flat-square&logo=systemdesign&logoColor=black)
@@ -71,8 +68,13 @@
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/-LangGraph-FF6B35?style=flat-square&logo=graph&logoColor=white)
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![LLM](https://img.shields.io/badge/-Large%20Language%20Models-6C5CE7?style=flat-square&logo=ai&logoColor=white)
+![NLP](https://img.shields.io/badge/-Natural%20Language%20Processing-00B894?style=flat-square&logo=nlp&logoColor=white)
 
 ### 🗄️ Databases & Related Tools
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
@@ -86,6 +88,28 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/-Google%20Colab-F9AB00?style=flat-square&logo=google-colab&logoColor=black)
+
+### 🏆 Competitive Programming Platforms
+![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)
+![Codeforces](https://img.shields.io/badge/-Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)
+![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white)
+![AtCoder](https://img.shields.io/badge/-AtCoder-000000?style=flat-square&logo=atcoder&logoColor=white)
+![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white)
+![GeeksforGeeks](https://img.shields.io/badge/-GeeksforGeeks-0F9D58?style=flat-square&logo=geeksforgeeks&logoColor=white)
+
+## 🏆 Competitive Programming Stats
+
+<div align="center">
+  
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Tarun2605?theme=dark&font=Karma&ext=contest)](https://leetcode.com/Tarun2605)
+
+</div>
+
+<div align="center">
+  
+![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Tarun2605&theme=dark)
+
+</div>
 
 ## 📈 GitHub Stats
 
