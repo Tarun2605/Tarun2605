@@ -1,7 +1,13 @@
 # Hi there, I'm Tarun! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning&center=true&width=380&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Open+Source+Enthusiast<div align="center">
+  
+**Thanks for visiting! 😄**
+
+![Snake animation](https://github.com/Tarun2605/Tarun2605/blob/output/github-contribution-grid-snake.svg)
+
+</div>ter=true&width=380&height=45">
 </div>
 
 ## 🚀 About Me
@@ -115,12 +121,6 @@ C            1 hr 2 mins     █░░░░░░░░░░░░░░░░
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tarun2605&theme=tokyo-night"/>
 </div>
-
-## 🎵 Currently Listening To
-
-<!-- SPOTIFY:START -->
-**🎧 Not playing anything right now...**
-<!-- SPOTIFY:END -->
 
 ## 📝 Latest Blog Posts
 

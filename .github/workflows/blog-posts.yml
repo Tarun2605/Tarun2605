@@ -2,8 +2,8 @@ name: Latest Blog Posts
 
 on:
   schedule:
-    # Runs twice daily
-    - cron: '0 */12 * * *'
+    # Runs daily at 22:15 UTC (10:15 PM UTC)
+    - cron: '15 22 * * *'
   workflow_dispatch:
 
 jobs:

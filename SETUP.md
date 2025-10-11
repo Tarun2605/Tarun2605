@@ -8,7 +8,6 @@ This repository contains automated workflows for maintaining an up-to-date GitHu
 - **Snake Game Animation**: Generates contribution graph snake animation
 - **Blog Posts Integration**: Fetches latest blog posts from Dev.to and Medium
 - **WakaTime Stats**: Shows coding time and language statistics (optional)
-- **Spotify Integration**: Displays currently playing music (optional)
 - **Dynamic Content**: Profile views, GitHub stats, and activity tracking
 
 ## 📋 Setup Instructions
@@ -34,15 +33,6 @@ The following workflows are automatically configured:
 1. Create a [WakaTime](https://wakatime.com) account
 2. Get your API key from WakaTime settings
 3. Add `WAKATIME_API_KEY` to your repository secrets
-
-##### Spotify Integration:
-1. Create a [Spotify App](https://developer.spotify.com/dashboard/applications)
-2. Get your Client ID and Client Secret
-3. Generate a refresh token using [this tool](https://github.com/novatorem/novatorem)
-4. Add these secrets to your repository:
-   - `SPOTIFY_CLIENT_ID`
-   - `SPOTIFY_SECRET_ID`
-   - `SPOTIFY_REFRESH_TOKEN`
 
 ### 3. Personal Customization
 
@@ -74,9 +64,6 @@ Go to your repository Settings → Secrets and variables → Actions, and add:
 
 **Optional for enhanced features:**
 - `WAKATIME_API_KEY` (for coding stats)
-- `SPOTIFY_CLIENT_ID` (for music status)
-- `SPOTIFY_SECRET_ID` (for music status)
-- `SPOTIFY_REFRESH_TOKEN` (for music status)
 
 ### 5. Permissions
 
@@ -87,11 +74,11 @@ Ensure GitHub Actions have write permissions:
 
 ## 🔄 Workflow Schedule
 
-- **Daily Stats**: Updates every day at 00:00 UTC
-- **Snake Animation**: Generates daily at 02:00 UTC
-- **Blog Posts**: Checks for new posts every 12 hours
-- **WakaTime**: Updates every 6 hours (if configured)
-- **Spotify**: Updates every 10 minutes (if configured)
+- **Daily Stats**: Updates every day at 22:00 UTC (10:00 PM)
+- **Snake Animation**: Generates daily at 22:30 UTC (10:30 PM) 
+- **Blog Posts**: Checks for new posts daily at 22:15 UTC (10:15 PM)
+- **WakaTime**: Updates daily at 22:45 UTC (10:45 PM) (if configured)
+- **Profile Maintenance**: Comprehensive update daily at 22:00 UTC (10:00 PM)
 
 ## 🛠️ Customization
 
