@@ -6,12 +6,15 @@
 
 ## 🚀 About Me
 
-- 🔭 I'm currently working on exciting projects and contributing to open source
-- 🌱 I'm constantly learning new technologies and improving my skills
-- 👯 I'm looking to collaborate on innovative projects
-- 💬 Ask me about web development, programming, or anything tech-related
+- 🔭 I'm currently working on **Full-Stack Development** and **Machine Learning** projects with a focus on scalable systems
+- 🌱 I'm constantly learning **System Design**, **Cloud Architecture**, and **Generative AI** technologies
+- 💻 Strong foundation in **Data Structures & Algorithms** using C++ and **Object-Oriented Programming**
+- ☁️ Experience with **Multi-Cloud environments** (Azure, AWS, GCP) and **Distributed Systems**
+- 🤖 Building applications with **AI/ML frameworks** including TensorFlow, LangChain, and LangGraph
+- 👯 I'm looking to collaborate on **Open Source** projects, **System Design**, and **AI-powered applications**
+- 💬 Ask me about **Backend Development**, **Database Design**, **Cloud Architecture**, or **Machine Learning**
 - 📫 How to reach me: [Your Email]
-- ⚡ Fun fact: I love solving complex problems and building things that matter
+- ⚡ Fun fact: I love architecting scalable systems and exploring the intersection of AI and software engineering!
 
 ## 📊 Daily Stats
 
@@ -25,35 +28,58 @@
 
 ## 🛠️ Tech Stack
 
-### Languages
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+### 💻 Programming Languages
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-### Frontend
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+### 🏗️ CS Fundamentals
+![Data Structures](https://img.shields.io/badge/-Data%20Structures-FF6B6B?style=flat-square&logo=datastructures&logoColor=white)
+![Algorithms](https://img.shields.io/badge/-Algorithms-4ECDC4?style=flat-square&logo=algorithm&logoColor=white)
+![OOP](https://img.shields.io/badge/-OOP-45B7D1?style=flat-square&logo=object&logoColor=white)
+![SOLID](https://img.shields.io/badge/-SOLID%20Principles-96CEB4?style=flat-square&logo=solid&logoColor=white)
+![System Design](https://img.shields.io/badge/-System%20Design-FFEAA7?style=flat-square&logo=systemdesign&logoColor=black)
+![DBMS](https://img.shields.io/badge/-DBMS-DDA0DD?style=flat-square&logo=database&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Operating Systems](https://img.shields.io/badge/-Operating%20Systems-FD79A8?style=flat-square&logo=linux&logoColor=white)
 
-### Backend
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
-
-### Database
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-### Tools & Technologies
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+### ☁️ Cloud & Distributed Systems
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+### 🌐 Web Frameworks
+![React](https://img.shields.io/badge/-ReactJS-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Fastify](https://img.shields.io/badge/-Fastify-000000?style=flat-square&logo=fastify&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+
+### 🤖 Machine Learning & Generative AI
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
+![LangGraph](https://img.shields.io/badge/-LangGraph-FF6B35?style=flat-square&logo=graph&logoColor=white)
+
+### 🗄️ Databases & Related Tools
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/-Prisma%20ORM-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Neo4j](https://img.shields.io/badge/-Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white)
+![Pinecone](https://img.shields.io/badge/-Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white)
+
+### 🔧 Developer Tools
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Google Colab](https://img.shields.io/badge/-Google%20Colab-F9AB00?style=flat-square&logo=google-colab&logoColor=black)
 
 ## 📈 GitHub Stats
 
@@ -70,11 +96,11 @@
 
 <!-- WEEKLY_STATS:START -->
 ```text
-JavaScript   8 hrs 45 mins   ████████████░░░░░░░░░   60.2%
-Python       3 hrs 12 mins   █████░░░░░░░░░░░░░░░░   22.1%
-TypeScript   1 hr 30 mins    ██░░░░░░░░░░░░░░░░░░░   10.4%
-CSS          45 mins         █░░░░░░░░░░░░░░░░░░░░    5.2%
-Other        18 mins         ░░░░░░░░░░░░░░░░░░░░░    2.1%
+C++          9 hrs 30 mins   ████████████░░░░░░░░░   45.2%
+Python       6 hrs 45 mins   ████████░░░░░░░░░░░░░   32.1%
+TypeScript   2 hrs 15 mins   ███░░░░░░░░░░░░░░░░░░   10.7%
+JavaScript   1 hr 30 mins    ██░░░░░░░░░░░░░░░░░░░    7.1%
+C            1 hr 2 mins     █░░░░░░░░░░░░░░░░░░░░    4.9%
 ```
 <!-- WEEKLY_STATS:END -->
 

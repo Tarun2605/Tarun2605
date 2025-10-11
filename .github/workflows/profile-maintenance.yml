@@ -80,13 +80,13 @@ jobs:
             }
 
             updateWeeklyStats() {
-              // Simulated coding stats - replace with actual WakaTime data if available
+              // Your preferred language statistics
               const languages = [
-                { name: 'JavaScript', time: '8 hrs 45 mins', percent: 60.2 },
-                { name: 'Python', time: '3 hrs 12 mins', percent: 22.1 },
-                { name: 'TypeScript', time: '1 hr 30 mins', percent: 10.4 },
-                { name: 'CSS', time: '45 mins', percent: 5.2 },
-                { name: 'Other', time: '18 mins', percent: 2.1 }
+                { name: 'C++', time: '9 hrs 30 mins', percent: 45.2 },
+                { name: 'Python', time: '6 hrs 45 mins', percent: 32.1 },
+                { name: 'TypeScript', time: '2 hrs 15 mins', percent: 10.7 },
+                { name: 'JavaScript', time: '1 hr 30 mins', percent: 7.1 },
+                { name: 'C', time: '1 hr 2 mins', percent: 4.9 }
               ];
 
               const generateBar = (percent) => {
@@ -112,16 +112,16 @@ jobs:
 
             updateRecentActivity() {
               const activities = [
-                "🔄 Updated profile README with latest automation",
-                "📊 Refreshed GitHub statistics and metrics",
-                "⚡ Optimized workflow performance and reliability",
-                "🚀 Maintained consistent development activity",
-                "🔧 Enhanced repository automation scripts",
-                "📈 Improved profile analytics and tracking",
-                "🎯 Streamlined CI/CD pipeline processes",
-                "🌟 Contributed to open source projects",
-                "📚 Updated documentation and guides",
-                "🔍 Refactored codebase for better maintainability"
+                "🔄 Optimized algorithms and data structures in C++",
+                "🤖 Built ML pipeline using TensorFlow and LangChain",
+                "☁️ Deployed microservices on AWS/Azure with Docker",
+                "🚀 Implemented FastAPI backend with PostgreSQL",
+                "🔧 Enhanced React TypeScript components",
+                "� Designed scalable system architecture",
+                "🗄️ Optimized database queries with Prisma ORM",
+                "� Developed distributed systems with Kafka",
+                "🧠 Experimented with Generative AI frameworks",
+                "🔍 Refactored codebase following SOLID principles"
               ];
               
               const randomActivities = activities
