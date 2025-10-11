@@ -97,20 +97,6 @@
 ![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white)
 ![GeeksforGeeks](https://img.shields.io/badge/-GeeksforGeeks-0F9D58?style=flat-square&logo=geeksforgeeks&logoColor=white)
 
-## 🏆 Competitive Programming Stats
-
-<div align="center">
-  
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Tarun2605?theme=dark&font=Karma&ext=contest)](https://leetcode.com/Tarun2605)
-
-</div>
-
-<div align="center">
-  
-![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Tarun2605&theme=dark)
-
-</div>
-
 ## 📈 GitHub Stats
 
 <div align="center">
