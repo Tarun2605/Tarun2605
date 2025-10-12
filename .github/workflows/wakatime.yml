@@ -2,8 +2,8 @@ name: Update WakaTime Stats
 
 on:
   schedule:
-    # Runs daily at 22:45 UTC (10:45 PM UTC)
-    - cron: '45 22 * * *'
+    # Runs every 10 minutes
+    - cron: '*/10 * * * *'
   workflow_dispatch:
 
 jobs:

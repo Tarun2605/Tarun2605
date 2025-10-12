@@ -74,11 +74,11 @@ Ensure GitHub Actions have write permissions:
 
 ## 🔄 Workflow Schedule
 
-- **Daily Stats**: Updates every day at 22:00 UTC (10:00 PM)
-- **Snake Animation**: Generates daily at 22:30 UTC (10:30 PM) 
-- **Blog Posts**: Checks for new posts daily at 22:15 UTC (10:15 PM)
-- **WakaTime**: Updates daily at 22:45 UTC (10:45 PM) (if configured)
-- **Profile Maintenance**: Comprehensive update daily at 22:00 UTC (10:00 PM)
+- **Daily Stats**: Updates every 10 minutes
+- **Snake Animation**: Generates every 10 minutes 
+- **Blog Posts**: Checks for new posts every 10 minutes
+- **WakaTime**: Updates every 10 minutes (if configured)
+- **Profile Maintenance**: Comprehensive update every 10 minutes
 
 ## 🛠️ Customization
 
