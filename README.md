@@ -140,8 +140,8 @@ C            1 hr 2 mins     █░░░░░░░░░░░░░░░░
 
 <!-- RECENT_ACTIVITY:START -->
 **⚡ Recent GitHub Activity:**
+- 🔄 Optimized algorithms and data structures in C++
 - � Developed distributed systems with Kafka
-- ☁️ Deployed microservices on AWS/Azure with Docker
 - 🚀 Implemented FastAPI backend with PostgreSQL
 - 📅 Profile updated: October 12, 2025
 <!-- RECENT_ACTIVITY:END -->
