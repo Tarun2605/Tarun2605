@@ -95,9 +95,16 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
 
-          # Pull latest main to avoid non-fast-forward errors
+          # Stash local changes before pulling remote updates
+          git add README.md
+          git stash --include-untracked
+
+          # Pull and rebase latest main to avoid non-fast-forward errors
           git fetch origin main
           git rebase origin/main || git rebase --abort
+
+          # Reapply stashed changes
+          git stash pop || true
 
           git add README.md
           if git diff --staged --quiet; then
