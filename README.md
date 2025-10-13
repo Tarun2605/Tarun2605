@@ -140,9 +140,9 @@ C            1 hr 2 mins     █░░░░░░░░░░░░░░░░
 
 <!-- RECENT_ACTIVITY:START -->
 **⚡ Recent GitHub Activity:**
-- 🧠 Experimented with Generative AI frameworks
-- � Designed scalable system architecture
-- � Developed distributed systems with Kafka
+- 🔄 Optimized algorithms and data structures in C++
+- 🤖 Built ML pipeline using TensorFlow and LangChain
+- ☁️ Deployed microservices on AWS/Azure with Docker
 - 📅 Profile updated: October 13, 2025
 <!-- RECENT_ACTIVITY:END -->
 
