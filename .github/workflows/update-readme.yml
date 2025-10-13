@@ -90,14 +90,19 @@ jobs:
 
           node update-stats.js
 
-      - name: Commit changes
+      - name: Commit and push changes
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
+
+          # Pull latest main to avoid non-fast-forward errors
+          git fetch origin main
+          git rebase origin/main || git rebase --abort
+
           git add README.md
           if git diff --staged --quiet; then
             echo "No changes to commit"
           else
             git commit -m "📊 Daily README update - $(date +'%Y-%m-%d')"
-            git push
+            git push origin main
           fi
