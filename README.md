@@ -140,9 +140,9 @@ C            1 hr 2 mins     █░░░░░░░░░░░░░░░░
 
 <!-- RECENT_ACTIVITY:START -->
 **⚡ Recent GitHub Activity:**
-- 🤖 Built ML pipeline using TensorFlow and LangChain
-- 🧠 Experimented with Generative AI frameworks
-- 🔄 Optimized algorithms and data structures in C++
+- � Designed scalable system architecture
+- 🗄️ Optimized database queries with Prisma ORM
+- 🚀 Implemented FastAPI backend with PostgreSQL
 - 📅 Profile updated: October 13, 2025
 <!-- RECENT_ACTIVITY:END -->
 
