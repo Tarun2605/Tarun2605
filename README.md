@@ -140,9 +140,9 @@ C            1 hr 2 mins     █░░░░░░░░░░░░░░░░
 
 <!-- RECENT_ACTIVITY:START -->
 **⚡ Recent GitHub Activity:**
-- ☁️ Deployed microservices on AWS/Azure with Docker
-- 🔍 Refactored codebase following SOLID principles
-- 🤖 Built ML pipeline using TensorFlow and LangChain
+- 🔄 Optimized algorithms and data structures in C++
+- 🗄️ Optimized database queries with Prisma ORM
+- 🧠 Experimented with Generative AI frameworks
 - 📅 Profile updated: October 14, 2025
 <!-- RECENT_ACTIVITY:END -->
 
