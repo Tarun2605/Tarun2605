@@ -140,9 +140,9 @@ C            1 hr 2 mins     █░░░░░░░░░░░░░░░░
 
 <!-- RECENT_ACTIVITY:START -->
 **⚡ Recent GitHub Activity:**
-- 🚀 Implemented FastAPI backend with PostgreSQL
-- 🤖 Built ML pipeline using TensorFlow and LangChain
+- ☁️ Deployed microservices on AWS/Azure with Docker
 - � Designed scalable system architecture
+- 🔍 Refactored codebase following SOLID principles
 - 📅 Profile updated: October 14, 2025
 <!-- RECENT_ACTIVITY:END -->
 
