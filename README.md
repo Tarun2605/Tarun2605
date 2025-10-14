@@ -140,9 +140,9 @@ C            1 hr 2 mins     █░░░░░░░░░░░░░░░░
 
 <!-- RECENT_ACTIVITY:START -->
 **⚡ Recent GitHub Activity:**
-- � Developed distributed systems with Kafka
-- � Designed scalable system architecture
-- 🧠 Experimented with Generative AI frameworks
+- 🗄️ Optimized database queries with Prisma ORM
+- 🔄 Optimized algorithms and data structures in C++
+- 🚀 Implemented FastAPI backend with PostgreSQL
 - 📅 Profile updated: October 14, 2025
 <!-- RECENT_ACTIVITY:END -->
 
