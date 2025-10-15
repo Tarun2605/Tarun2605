@@ -140,9 +140,9 @@ C            1 hr 2 mins     █░░░░░░░░░░░░░░░░
 
 <!-- RECENT_ACTIVITY:START -->
 **⚡ Recent GitHub Activity:**
-- � Developed distributed systems with Kafka
-- 🧠 Experimented with Generative AI frameworks
 - 🔍 Refactored codebase following SOLID principles
+- 🔄 Optimized algorithms and data structures in C++
+- 🔧 Enhanced React TypeScript components
 - 📅 Profile updated: October 15, 2025
 <!-- RECENT_ACTIVITY:END -->
 
