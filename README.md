@@ -140,9 +140,9 @@ C            1 hr 2 mins     █░░░░░░░░░░░░░░░░
 
 <!-- RECENT_ACTIVITY:START -->
 **⚡ Recent GitHub Activity:**
-- 🔄 Optimized algorithms and data structures in C++
 - � Designed scalable system architecture
-- 🚀 Implemented FastAPI backend with PostgreSQL
+- 🗄️ Optimized database queries with Prisma ORM
+- 🔄 Optimized algorithms and data structures in C++
 - 📅 Profile updated: October 16, 2025
 <!-- RECENT_ACTIVITY:END -->
 
