@@ -140,9 +140,9 @@ C            1 hr 2 mins     █░░░░░░░░░░░░░░░░
 
 <!-- RECENT_ACTIVITY:START -->
 **⚡ Recent GitHub Activity:**
+- � Developed distributed systems with Kafka
 - 🔧 Enhanced React TypeScript components
-- 🔄 Optimized algorithms and data structures in C++
-- 🚀 Implemented FastAPI backend with PostgreSQL
+- 🧠 Experimented with Generative AI frameworks
 - 📅 Profile updated: October 16, 2025
 <!-- RECENT_ACTIVITY:END -->
 
