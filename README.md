@@ -140,9 +140,9 @@ C            1 hr 2 mins     █░░░░░░░░░░░░░░░░
 
 <!-- RECENT_ACTIVITY:START -->
 **⚡ Recent GitHub Activity:**
-- 🔍 Refactored codebase following SOLID principles
-- 🧠 Experimented with Generative AI frameworks
-- 🔧 Enhanced React TypeScript components
+- � Developed distributed systems with Kafka
+- 🚀 Implemented FastAPI backend with PostgreSQL
+- ☁️ Deployed microservices on AWS/Azure with Docker
 - 📅 Profile updated: October 16, 2025
 <!-- RECENT_ACTIVITY:END -->
 
