@@ -140,9 +140,9 @@ C            1 hr 2 mins     █░░░░░░░░░░░░░░░░
 
 <!-- RECENT_ACTIVITY:START -->
 **⚡ Recent GitHub Activity:**
-- 🤖 Built ML pipeline using TensorFlow and LangChain
-- 🗄️ Optimized database queries with Prisma ORM
 - 🚀 Implemented FastAPI backend with PostgreSQL
+- 🔍 Refactored codebase following SOLID principles
+- ☁️ Deployed microservices on AWS/Azure with Docker
 - 📅 Profile updated: October 16, 2025
 <!-- RECENT_ACTIVITY:END -->
 
