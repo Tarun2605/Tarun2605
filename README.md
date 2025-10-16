@@ -140,9 +140,9 @@ C            1 hr 2 mins     █░░░░░░░░░░░░░░░░
 
 <!-- RECENT_ACTIVITY:START -->
 **⚡ Recent GitHub Activity:**
-- � Developed distributed systems with Kafka
-- 🗄️ Optimized database queries with Prisma ORM
+- 🔍 Refactored codebase following SOLID principles
 - 🚀 Implemented FastAPI backend with PostgreSQL
+- ☁️ Deployed microservices on AWS/Azure with Docker
 - 📅 Profile updated: October 16, 2025
 <!-- RECENT_ACTIVITY:END -->
 
