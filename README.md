@@ -22,7 +22,7 @@
 <!-- DAILY_STATS:START -->
 **🗓️ Today's Date:** Friday, October 17, 2025
 
-**⏰ Last Updated:** 2025-10-17T10:44:47.920Z
+**⏰ Last Updated:** Auto-updated every 10 minutes
 
 **📈 Profile Views:** ![Profile Views](https://komarev.com/ghpvc/?username=Tarun2605&color=brightgreen)
 <!-- DAILY_STATS:END -->
@@ -140,16 +140,10 @@ C            1 hr 2 mins     █░░░░░░░░░░░░░░░░
 
 <!-- RECENT_ACTIVITY:START -->
 **⚡ Recent GitHub Activity:**
-<<<<<<< Updated upstream
+- 🔄 Optimized algorithms and data structures in C++
+- 🤖 Built ML pipeline using TensorFlow and LangChain
 - 🔧 Enhanced React TypeScript components
-- � Designed scalable system architecture
-- 🧠 Experimented with Generative AI frameworks
 - 📅 Profile updated: October 17, 2025
-=======
-- 🔧 Optimized repository automation
-- 📅 Daily README update: Friday, October 17, 2025
-- 🤖 Automated via GitHub Actions
->>>>>>> Stashed changes
 <!-- RECENT_ACTIVITY:END -->
 
 ## � Connect With Me
