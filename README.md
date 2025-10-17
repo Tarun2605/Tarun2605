@@ -140,9 +140,9 @@ C            1 hr 2 mins     █░░░░░░░░░░░░░░░░
 
 <!-- RECENT_ACTIVITY:START -->
 **⚡ Recent GitHub Activity:**
+- 🔄 Optimized algorithms and data structures in C++
+- � Designed scalable system architecture
 - 🧠 Experimented with Generative AI frameworks
-- 🗄️ Optimized database queries with Prisma ORM
-- 🤖 Built ML pipeline using TensorFlow and LangChain
 - 📅 Profile updated: October 17, 2025
 <!-- RECENT_ACTIVITY:END -->
 
