@@ -140,9 +140,9 @@ C            1 hr 2 mins     █░░░░░░░░░░░░░░░░
 
 <!-- RECENT_ACTIVITY:START -->
 **⚡ Recent GitHub Activity:**
-- � Developed distributed systems with Kafka
-- 🔍 Refactored codebase following SOLID principles
-- 🗄️ Optimized database queries with Prisma ORM
+- � Designed scalable system architecture
+- 🧠 Experimented with Generative AI frameworks
+- 🔧 Enhanced React TypeScript components
 - 📅 Profile updated: October 17, 2025
 <!-- RECENT_ACTIVITY:END -->
 
