@@ -141,8 +141,8 @@ C            1 hr 2 mins     █░░░░░░░░░░░░░░░░
 <!-- RECENT_ACTIVITY:START -->
 **⚡ Recent GitHub Activity:**
 - 🔄 Optimized algorithms and data structures in C++
-- 🤖 Built ML pipeline using TensorFlow and LangChain
-- ☁️ Deployed microservices on AWS/Azure with Docker
+- � Developed distributed systems with Kafka
+- 🔧 Enhanced React TypeScript components
 - 📅 Profile updated: October 18, 2025
 <!-- RECENT_ACTIVITY:END -->
 
