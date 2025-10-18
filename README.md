@@ -140,9 +140,9 @@ C            1 hr 2 mins     █░░░░░░░░░░░░░░░░
 
 <!-- RECENT_ACTIVITY:START -->
 **⚡ Recent GitHub Activity:**
-- 🔄 Optimized algorithms and data structures in C++
-- 🧠 Experimented with Generative AI frameworks
 - 🚀 Implemented FastAPI backend with PostgreSQL
+- ☁️ Deployed microservices on AWS/Azure with Docker
+- 🤖 Built ML pipeline using TensorFlow and LangChain
 - 📅 Profile updated: October 18, 2025
 <!-- RECENT_ACTIVITY:END -->
 
