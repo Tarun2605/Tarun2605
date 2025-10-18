@@ -140,9 +140,9 @@ C            1 hr 2 mins     █░░░░░░░░░░░░░░░░
 
 <!-- RECENT_ACTIVITY:START -->
 **⚡ Recent GitHub Activity:**
+- 🔄 Optimized algorithms and data structures in C++
+- 🗄️ Optimized database queries with Prisma ORM
 - � Developed distributed systems with Kafka
-- ☁️ Deployed microservices on AWS/Azure with Docker
-- 🔍 Refactored codebase following SOLID principles
 - 📅 Profile updated: October 18, 2025
 <!-- RECENT_ACTIVITY:END -->
 
