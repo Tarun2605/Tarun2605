@@ -140,9 +140,9 @@ C            1 hr 2 mins     █░░░░░░░░░░░░░░░░
 
 <!-- RECENT_ACTIVITY:START -->
 **⚡ Recent GitHub Activity:**
+- 🗄️ Optimized database queries with Prisma ORM
+- ☁️ Deployed microservices on AWS/Azure with Docker
 - 🚀 Implemented FastAPI backend with PostgreSQL
-- 🧠 Experimented with Generative AI frameworks
-- 🔧 Enhanced React TypeScript components
 - 📅 Profile updated: October 19, 2025
 <!-- RECENT_ACTIVITY:END -->
 
