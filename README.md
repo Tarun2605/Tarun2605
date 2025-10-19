@@ -140,9 +140,9 @@ C            1 hr 2 mins     █░░░░░░░░░░░░░░░░
 
 <!-- RECENT_ACTIVITY:START -->
 **⚡ Recent GitHub Activity:**
-- � Developed distributed systems with Kafka
+- 🚀 Implemented FastAPI backend with PostgreSQL
+- ☁️ Deployed microservices on AWS/Azure with Docker
 - 🔍 Refactored codebase following SOLID principles
-- 🧠 Experimented with Generative AI frameworks
 - 📅 Profile updated: October 19, 2025
 <!-- RECENT_ACTIVITY:END -->
 
