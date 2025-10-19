@@ -141,8 +141,8 @@ C            1 hr 2 mins     █░░░░░░░░░░░░░░░░
 <!-- RECENT_ACTIVITY:START -->
 **⚡ Recent GitHub Activity:**
 - 🗄️ Optimized database queries with Prisma ORM
-- � Developed distributed systems with Kafka
-- 🚀 Implemented FastAPI backend with PostgreSQL
+- 🧠 Experimented with Generative AI frameworks
+- 🔍 Refactored codebase following SOLID principles
 - 📅 Profile updated: October 19, 2025
 <!-- RECENT_ACTIVITY:END -->
 
