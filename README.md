@@ -141,8 +141,8 @@ C            1 hr 2 mins     █░░░░░░░░░░░░░░░░
 <!-- RECENT_ACTIVITY:START -->
 **⚡ Recent GitHub Activity:**
 - 🗄️ Optimized database queries with Prisma ORM
-- 🤖 Built ML pipeline using TensorFlow and LangChain
-- 🔄 Optimized algorithms and data structures in C++
+- � Designed scalable system architecture
+- � Developed distributed systems with Kafka
 - 📅 Profile updated: October 19, 2025
 <!-- RECENT_ACTIVITY:END -->
 
