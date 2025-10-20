@@ -2,8 +2,8 @@ name: Update README with Daily Stats
 
 on:
   schedule:
-    # Runs every 10 minutes
-    - cron: '*/10 * * * *'
+    # Runs once daily at 00:00 UTC (midnight)
+    - cron: '0 0 * * *'
   workflow_dispatch:
   push:
     branches: [ main ]
